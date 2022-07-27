@@ -7,7 +7,7 @@ public class Q1 {
     public static void main(String[] args) {
         DecimalNumberToBinaryNumber(16);
         DecimalNumberToBinaryNumber(35);
-        DecimalNumberToBinaryNumber(42);
+        DecimalNumberToBinaryNumber(45);
 
     }
 
